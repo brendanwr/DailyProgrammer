@@ -1,6 +1,7 @@
 # DailyProgrammer
 Reddit Daily Programmer Challenges
 [https://www.reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
+
 Welcome to [r/DailyProgrammer](https://www.reddit.com/r/dailyprogrammer)!
 
 Dailyprogrammer is about challenging programmers of all skill level with weekly programming challenges. 3 challenges a week are posted at increasing difficulty. Solutions are peer reviewed and redditors can ask for the community for feedback and comments.
